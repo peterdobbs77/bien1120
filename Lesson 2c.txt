@@ -1,0 +1,5 @@
+Lesson 2c
+
+Objective:
+	How to take the average of numbers in a file of indeterminant size.
+
